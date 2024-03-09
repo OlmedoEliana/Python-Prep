@@ -1,15 +1,15 @@
-# Importante: No modificar ni el nombre ni los argumetos que reciben las funciones, sólo deben escribir
-# código dentro de las funciones ya definidas.
-
-def Factorial(numero):
-    '''
-    Esta función devuelve el factorial del número pasado como parámetro.
+# Importante: No modificar ni el nombre ni los arguEsta función devuelve el factorial del número pasado como parámetro.
     En caso de que no sea de tipo entero y/o sea menor que 1, debe retornar nulo.
     Recibe un argumento:
         numero: Será el número con el que se calcule el factorial
     Ej:
         Factorial(4) debe retornar 24
-        Factorial(-2) debe retornar nulo
+        Factorial(-2) debe retornar nulmetos que reciben las funciones, sólo deben escribir
+# código dentro de las funciones ya definidas.
+
+def Factorial(numero):
+    '''
+    o
     '''
     #Tu código aca:
     return 'Funcion incompleta'
